@@ -27,11 +27,11 @@ body * {
     position: absolute;
     top:-1000px;
     left:-1000px;
-    width: 500px;
-    height: 500px;
+    width: 550px;
+    height: 550px;
     background-color: #ffc65c;
     z-index: 10;
-    -webkit-box-shadow: inset 0px 0px 150px 166px rgba(0,0,0,1);
+    -webkit-box-shadow: inset 0px 0px 150px 166px rgba(0, 0, 0, 1);
     -moz-box-shadow: inset 0px 0px 150px 166px rgba(0,0,0,1);
-    box-shadow: inset 0px 0px 150px 166px rgba(0,0,0,1);
+    box-shadow: inset 0px 0px 150px 166px rgba(0, 0, 0, 1);
 }
